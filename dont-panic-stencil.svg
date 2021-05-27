@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg69"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="dont-panic-stencil.svg">
+  <defs
+     id="defs63" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata66">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="DON'T
+PANIC"
+       transform="matrix(0.489775,0,0,0.489775,525.56964,30.133456)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="flowRoot10">
+      <path
+         d="m -1285.3252,306.80747 h 9.216 q 28.416,0 45.888,16.896 17.664,16.896 17.664,45.504 0,28.416 -17.664,45.312 -17.472,16.896 -45.888,16.896 h -40.512 v -124.608 h 22.848 v 104.064 h 17.664 q 17.664,0 28.608,-11.904 10.368,-11.52 10.368,-29.76 0,-18.624 -10.368,-30.144 -10.752,-11.712 -28.608,-11.712 l -9.216,0.192 z m -8.448,104.064 h 7.488 v 20.544 h -7.488 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path117" />
+      <path
+         d="m -1140.4522,434.10347 q -23.424,-0.96 -37.44,-16.512 -15.744,-17.088 -15.744,-48.576 0,-31.872 15.744,-48.768 13.632,-14.784 37.44,-15.936 v 10.176 10.176 h -1.344 q -10.368,0 -19.392,11.712 -9.024,11.52 -9.024,33.024 0,21.312 9.024,32.832 9.024,11.328 20.736,11.328 -0.192,0.192 -0.192,3.456 0.192,3.072 0.192,6.912 z m 8.64,-20.928 q 11.52,-1.536 19.584,-11.904 8.256,-10.56 8.256,-31.872 0,-21.504 -8.256,-32.064 -8.256,-10.752 -19.584,-12.096 v -10.368 q 0,-3.84 -0.192,-7.104 0,-3.264 0.192,-3.264 9.216,0.576 18.624,4.416 9.408,3.648 16.896,11.712 15.744,16.896 15.744,48.384 0,31.68 -15.744,48.96 -13.44,14.4 -35.328,15.936 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path119" />
+      <path
+         d="m -1029.1702,306.80747 54.91204,88.32 v -88.32 h 22.656 v 124.608 h -23.04 l -56.64004,-91.392 v 91.392 h -22.656 v -124.608 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path121" />
+      <path
+         d="m -905.17716,301.43147 -3.072,45.696 h -16.704 l -2.88,-45.696 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path123" />
+      <path
+         d="m -859.54116,306.80747 h 61.248 v 19.584 h -38.592 v 105.024 h -22.656 v -105.024 z m -7.68,19.584 h -30.912 v -19.584 h 30.912 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path125" />
+      <path
+         d="m -1286.6692,546.80747 h 13.632 q 21.12,0 32.832,10.368 11.904,10.176 11.904,29.376 0,19.008 -11.904,29.376 -11.712,10.176 -32.832,10.176 h -21.12 v 45.312 h -22.848 v -124.608 h 22.848 v 59.52 h 21.12 q 10.56,0 15.936,-5.568 5.376,-5.568 5.376,-14.208 0,-8.832 -5.376,-14.4 -5.376,-5.76 -15.936,-5.76 h -13.632 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path127" />
+      <path
+         d="m -1180.4812,627.25547 27.456,0.192 -17.28,-53.568 -17.664,53.568 q -1.344,3.84 -2.496,7.104 -0.96,3.072 -1.728,5.184 l -1.536,4.608 -8.832,27.072 h -24 l 42.432,-124.608 h 28.608 l 40.704,124.608 h -24 l -8.64,-26.88 h -38.592 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path129" />
+      <path
+         d="m -1068.1702,546.80747 54.912,88.32 v -88.32 h 22.65604 v 124.608 h -23.04004 l -56.64,-91.392 v 91.392 h -22.656 v -124.608 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path131" />
+      <path
+         d="m -954.92916,546.80747 h 22.656 v 124.608 h -22.656 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path133" />
+      <path
+         d="m -851.69316,544.31147 q 11.52,0 19.968,2.88 8.448,2.688 14.592,7.68 12.096,9.792 15.744,27.456 l -24.192,4.416 q -3.072,-9.792 -9.6,-15.744 -6.336,-6.144 -15.936,-6.144 -13.056,0 -21.12,10.944 -8.64,11.904 -8.64,33.024 0,20.928 7.68,32.832 7.68,11.712 20.928,11.712 13.248,0 19.968,-6.336 6.72,-6.528 6.72,-16.704 h 24.384 q 0,20.928 -13.44,32.448 -13.248,11.328 -36.48,11.328 -24.768,0 -39.36,-17.28 -14.784,-17.664 -14.784,-48 0,-30.72 15.168,-48 14.592,-16.512 38.4,-16.512 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Karla;-inkscape-font-specification:Karla;fill:#ff0000"
+         id="path135" />
+    </g>
+  </g>
+</svg>
